@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\mod09apiv7.props" />
+</Project>
